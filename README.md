@@ -1,5 +1,4 @@
 # AI-in-Taxation
-# AI-Driven Tax Compliance and Fraud Detection System
 
 A thesis project proposing an intelligent system that leverages Artificial Intelligence to enhance tax compliance, automate fraud detection, and support audit prioritization.
 
@@ -22,7 +21,7 @@ Repository Contents
 
 ---
 
- How to Open the Diagrams
+ How to run the Diagrams
 
 BPMN Diagrams (.xml files) — runs in Camunda
 
@@ -39,5 +38,5 @@ Figma Prototype — runs in Figma
 - Camunda Modeler — BPMN process diagrams
   draw.io** — UML Use Case diagram
  Figma** — UI/UX prototype
-- 
-- **Microsoft Word** — Thesis report (IEEE format)
+  
+- Microsoft Word  — Thesis report 
