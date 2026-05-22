@@ -36,7 +36,7 @@ Figma Prototype — runs in Figma
  Tools Used
 
 - Camunda Modeler — BPMN process diagrams
-  draw.io** — UML Use Case diagram
- Figma** — UI/UX prototype
+   draw.io — UML Use Case diagram
+ Figma — prototype
   
-- Microsoft Word  — Thesis report 
+- Microsoft Word  — AI in Financial reporting 
